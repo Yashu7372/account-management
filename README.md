@@ -32,16 +32,16 @@ JDK 17 or higher
 Maven 3.6.0 or higher
 Running the Application
 Clone the repository:
-git clone https://github.com/yourusername/account-management.git
-cd account-management
+ git clone https://github.com/yourusername/account-management.git
+ cd account-management
 Build and Run Application:
-mvn clean install
-mvn spring-boot:run
+ mvn clean install
+ mvn spring-boot:run
 Run Test Cases:
-mvn test
+ mvn test
 
 Get Coverage:
-mvn jacoco:report
+ mvn jacoco:report
 
 API Endpoints
 User Management
